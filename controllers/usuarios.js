@@ -14,6 +14,7 @@ const usuariosGet = (req, res = response) => {
     
 }
 
+//Metodo post
 const usuariosPost = (req, res = response) => {
     
     res.json({
