@@ -1,5 +1,5 @@
 const Role = require('../models/rol');
-const Usuario = require('../models/Usuario');
+const Usuario = require('../models/usuario');
 
 /* 
     Funcion que recibe el rol y lo busca en la BD, si no lo encuentra
